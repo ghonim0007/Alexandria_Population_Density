@@ -22,7 +22,7 @@ install.packages(c("sf", "tidyverse", "viridis", "stars", "ggrepel"))
 ## Usage
 Run the R script to generate the population density map:
 ```r
-source("population_density_analysis.R")
+source("Alexandria_Population_Map.R")
 ```
 
 ## Output
